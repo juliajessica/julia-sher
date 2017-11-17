@@ -1,35 +1,84 @@
 .title {
 	font-weight: bold;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: Arial;
 	color: grey;
+	text-align: center;
+
 }
 
 img.photo {
-  max-width: 200%;
-  height: 800px;
-	float: right;
-	padding: 0 20px 20px 0;
+width: auto ;
+max-width: 70% ;
+height: auto ;
+float: right;
+padding: 20px 20px 20px 20px;
+
 }
 
 .container {
-    min-height: 10em;
-    display: table-cell;
-    vertical-align: middle
+  min-height: 10em;
+  display: table-cell;
 }
 
 .about {
 	font-family: inherit;
+	text-align: center;
+	padding: 20px 20px 20px 20px;
+
 }
 
 ul.class {
 	all: none;
+	line-height: 30px;
 }
 
+h2 {
+	color: #bc96ac;
+	font-style: italic;
+}
 
+.center {
+	text-align: center;
+	font-size: 40px;
+}
 
+p.contact {
+	text-align: center;
+	line-height: normal;
+	font-variant: small-caps;
+}
 
+strong.important {
+	color: #c19766;
+}
 
+.column {
+  width: 10px;
+  float: left;
+	padding: 5px 0px 5px 0px;
+}
 
+@media screen and (min-width: 768px) {
+  .column {
+    width: 300px;
+    float: left;
+    padding: 20px;
+  }
+.navbar {
+	color: #bc96ac;
+}
 
+.sidebar {
+  display: block;
+}
 
-font-variant: small-caps;
+strong.proj {
+	font-style: oblique;
+	font-family: serif;
+	font-size: 17px;
+}
+
+.tech {
+	color: #c19766;
+	font-size: 15px;
+}
