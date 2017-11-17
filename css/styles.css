@@ -1,7 +1,13 @@
-h1 {
-
+.h1 {
+	font-weight: bold;
+	color: grey;
 }
 
 .list {
-	
+
+}
+
+.img {
+  max-width: 20%;
+  height: 400px;
 }
