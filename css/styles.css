@@ -4,30 +4,26 @@
 	color: grey;
 }
 
-.list {
-
-}
-
 img.photo {
   max-width: 200%;
   height: 800px;
 	float: right;
-	display: block;
-  margin-left: auto;
-  margin-right: auto
-	padding: 4px;
+	padding: 0 20px 20px 0;
 }
 
-.big {
-
-}
-
-div.container {
+.container {
     min-height: 10em;
     display: table-cell;
     vertical-align: middle
 }
 
+.about {
+	font-family: inherit;
+}
+
+ul.class {
+	all: none;
+}
 
 
 
