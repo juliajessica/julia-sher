@@ -58,12 +58,6 @@ strong.important {
 	padding: 4px;
 }
 
-@media screen and (min-width: 768px) {
-  .column {
-    width: 300px;
-    float: left;
-    padding: 20px;
-  }
 .navbar {
 	color: #bc96ac;
 }
