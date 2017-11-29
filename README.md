@@ -1,12 +1,12 @@
 # _Julia Sheremet Portfolio_
 
-#### _{This is a personal webpage created to share my portfolio with teachers, students, recruiters, and future employers}, {11-17-2017}_
+#### _This is a personal webpage created to share my portfolio with teachers, students, recruiters, and future employers}, {11-17-2017_
 
-#### By _**{Julia Sheremet}**_
+#### By _**Julia Sheremet**_
 
 ## Description
 
-_{This webpage is meant to share my Epicodus projects, past experiences/schooling, and interests. This purpose of this application is to shared with my fellow Epicodus teachers, classmates, future employers, work friends, as well as old colleagues.}_
+_This webpage is meant to share my Epicodus projects, past experiences/schooling, and interests. This purpose of this application is to shared with my fellow Epicodus teachers, classmates, future employers, work friends, as well as old colleagues._
 
 ## Setup/Installation Requirements
 
@@ -15,15 +15,15 @@ _{This webpage is meant to share my Epicodus projects, past experiences/schoolin
 
 ## Support and contact details
 
-_{Feel free to email me at juliajessicasher@gmail.com if they run into any issues or have questions, ideas or concerns. Please enjoy and feel free to share your opinion, constructive criticism, or comments of my work.}_
+_Feel free to email me at juliajessicasher@gmail.com if they run into any issues or have questions, ideas or concerns. Please enjoy and feel free to share your opinion, constructive criticism, or comments of my work._
 
 ## Technologies Used
 
-_{HTML}_
-_{CSS}_
-_{Bootstrap}_
+_HTML_
+_CSS_
+_Bootstrap_
 
 ### License
 
-*{Copyright 2017 Julia Sheremet}*
+*Copyright 2017 Julia Sheremet*
 https://juliajessica.github.io/julia-sher/
