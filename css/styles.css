@@ -3,6 +3,7 @@
 	font-family: Arial;
 	color: grey;
 	text-align: center;
+	font-variant: small-caps;
 }
 
 img.photo {
@@ -39,6 +40,10 @@ h2 {
 .center {
 	text-align: center;
 	font-size: 40px;
+	font-family: serif;
+	font-weight: lighter;
+	text-shadow: 2px 2px #939496;
+	text-decoration:
 }
 
 p.contact {
@@ -85,4 +90,5 @@ strong.proj {
 	margin: 7px;
 	border: 3px solid darkred;
 	padding: 5px 10px 5px 10px;
+	font-variant: small-caps;
 }
